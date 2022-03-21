@@ -1,0 +1,6 @@
+Passo 1 - Receber a idade;
+Passo 2 - Verificar a idade;
+Passo 3 - Se a idade for abaixo de 16 anos, mostrar que o voto não é permitido;
+Passo 4 - Senão a idade estiver entre 16 e 17 anos, mostrar que o voto é opcional;
+Passo 5 - Senão a idade for acima de 18 anos, mostrar que o voto é obrigatório;
+Passo 6 - Senão a idade for acima de 70 anos, mostrar que o voto é opcional;
